@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [Hasankanj.com](Hasankanj.com)
+- 👨‍💻 All of my projects are available at [Hasankanj.com](https://hasankanj.com/)
 
 - 💬 Ask me about **react , node,JS**
 
